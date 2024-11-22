@@ -1,4 +1,4 @@
-// quickset project quickset.go
+// quickset project quickset.go by suirosu exgaya epowsal wlb iwlb@outlook.com exgaya@gmail.com 20241122;
 package quickset
 
 import "fmt"
